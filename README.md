@@ -1,2 +1,2 @@
 # Workshop11
-Console program for managing tasks.
+Wytworzenie programu konsolowego do zarządzania zadaniami: Tasks.
